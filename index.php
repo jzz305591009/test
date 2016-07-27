@@ -6,6 +6,7 @@
 		echo 2222;
 		exit;
 	}
+	echo "哈哈哈哈哈";
 	phpinfo();
 	exit;
 ?>
